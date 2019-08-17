@@ -1,0 +1,6 @@
+= Jekyll skeleton site
+
+Features:
+
+* Travis CI configuration
+* Frontend build plugin
